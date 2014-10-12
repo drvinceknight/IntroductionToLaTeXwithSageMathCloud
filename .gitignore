@@ -1,0 +1,37 @@
+# LaTeX Files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+
+# pdf
+**.pdf
+
+# SMC files
+*.term
+*.sage-chat.sage-backup
+*.sage-backup
+*.sage-chat
